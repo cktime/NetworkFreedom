@@ -6,7 +6,7 @@
 
 ## 介绍
 
-本仓库提供Android、Windows、iOS/iPadOS系统的科学上网教程，另外还有其它高质量教程，如安装使用优质的第三方TG教程，另外所有教程托管于Github Pages服务。
+本项目提供Android、Windows、iOS/iPadOS系统的科学上网教程，另外还有其它高质量教程，如安装使用优质的第三方TG教程，另外所有教程托管于Github Pages服务。
 
 ## 教程
 
