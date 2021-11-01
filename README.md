@@ -34,7 +34,7 @@
 
 ## 备份
 
-除了该文档提供的直达网址，也提供教程备份存于该仓库中，[点击前往阅读]()
+除了该文档提供的直达网址，也提供教程备份存于该仓库中，[点击前往阅读](https://github.com/cktime/NetworkFreedom/blob/main/docs/catalogue.md)
 
 ## 其他
 
