@@ -20,17 +20,18 @@
   
   > 描述：不会科学上网，也能流畅使用TG的绝佳方法。
 
+### iOS/iPadOS
+
+* [小火箭 | Shadowrocket 从下载到使用](https://cktime.github.io/post/202110231/)  
+  
+  > 描述：小白快速实现苹果移动端科学上网。***注：此教程也包含获取并使用美区账号教程。***
+
 ### Windows
 
 * [v2rayN[G] | 好用的v2ray安卓/windows客户端](https://cktime.github.io/post/202110241/)
   
   > 描述：小白快速实现window科学上网。
 
-### iOS/iPadOS
-
-* [小火箭 | Shadowrocket 从下载到使用](https://cktime.github.io/post/202110231/)  
-  
-  > 描述：小白快速实现苹果移动端科学上网。***注：此教程也包含获取并使用美区账号教程。***
 
 ## 备份
 
