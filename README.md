@@ -1,7 +1,7 @@
 # NetworkFreedom
 
-![](https://img.shields.io/badge/author-cktime-orange)
-![](https://img.shields.io/badge/web-online-success)
+[![](https://img.shields.io/badge/author-cktime-orange)](https://github.com/cktime)
+[![](https://img.shields.io/badge/web-online-success)](https://blog.cktime.xyz/)
 [![GitHub stars](https://img.shields.io/github/stars/cktime/NetworkFreedom)](https://github.com/cktime/NetworkFreedom/stargazers)
 
 ## 介绍
